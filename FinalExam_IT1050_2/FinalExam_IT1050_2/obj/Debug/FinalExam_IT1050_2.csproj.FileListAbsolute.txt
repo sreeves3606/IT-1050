@@ -1,0 +1,7 @@
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\bin\Debug\FinalExam_IT1050_2.exe.config
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\bin\Debug\FinalExam_IT1050_2.exe
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\bin\Debug\FinalExam_IT1050_2.pdb
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\obj\Debug\FinalExam_IT1050_2.csprojResolveAssemblyReference.cache
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\obj\Debug\FinalExam_IT1050_2.csproj.CoreCompileInputs.cache
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\obj\Debug\FinalExam_IT1050_2.exe
+c:\users\sreev\source\repos\FinalExam_IT1050_2\FinalExam_IT1050_2\obj\Debug\FinalExam_IT1050_2.pdb
